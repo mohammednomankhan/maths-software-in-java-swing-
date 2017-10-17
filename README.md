@@ -1,0 +1,2 @@
+# maths-software-in-java-swing-
+this is maths software which is developed in java(swing) it can check whether a number is prime or not and will also print the reason behind it..and can print all the prime numbers upto a specific range.. you can check factorial of a number and can print all the factorial numbers upto a specific range...it has functionality to print a table of any number..and you can check power of any number and can print upto a specific range..
